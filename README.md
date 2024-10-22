@@ -33,74 +33,11 @@ Dưới đây là một số lớp chính có thể có trong ứng dụng:
 Dưới đây là mô tả bằng văn bản về biểu đồ lớp:
 
 ![image](https://github.com/user-attachments/assets/8e4bade6-261e-4ffa-b580-c40bb702a0d6)
-
-
-+-----------------+
-|      User       |
-+-----------------+
-| - userID        |
-| - name          |
-| - age           |
-| - email         |
-| - password      |
-+-----------------+
-| + register()    |
-| + login()       |
-| + updateInfo()  |
-+-----------------+
+![image](https://github.com/user-attachments/assets/e98b8416-97db-400a-8131-acf1f932d0aa)
+![image](https://github.com/user-attachments/assets/97a19037-9511-433b-a7ea-986e3b4bd46a)
+![image](https://github.com/user-attachments/assets/6d8f9d5c-77d1-41b3-a845-889644535858)
+![image](https://github.com/user-attachments/assets/1d896307-3ecb-4ad8-9136-98dc1d07702d)
+![image](https://github.com/user-attachments/assets/20ed3c9c-3e21-46d5-b91d-3d36d92d5073)
 
 
 
-+-----------------+
-|   HealthRecord  |
-+-----------------+
-| - height        |
-| - weight        |
-| - bmi           |
-| - healthStatus  |
-+-----------------+
-| + updateRecord()|
-| + getBMI()      |
-+-----------------+
-
-+-----------------+
-|    DietPlan     |
-+-----------------+
-| - meals         |
-| - calories      |
-+-----------------+
-| + addMeal()     |
-| + removeMeal()  |
-| + getPlan()     |
-+-----------------+
-
-+-----------------+
-|   ExercisePlan  |
-+-----------------+
-| - exercises     |
-| - duration      |
-+-----------------+
-| + addExercise() |
-| + removeExercise()|
-| + getPlan()     |
-+-----------------+
-
-+-----------------+
-| ProgressTracker  |
-+-----------------+
-| - goals         |
-| - progress      |
-+-----------------+
-| + trackProgress()|
-| + setGoals()    |
-+-----------------+
-
-+-----------------+
-|   Notification   |
-+-----------------+
-| - message       |
-| - date          |
-+-----------------+
-| + sendReminder()|
-| + schedule()    |
-+-----------------+
