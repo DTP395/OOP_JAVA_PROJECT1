@@ -32,6 +32,9 @@ Dưới đây là một số lớp chính có thể có trong ứng dụng:
 3. Xây dựng biểu đồ lớp (UML)
 Dưới đây là mô tả bằng văn bản về biểu đồ lớp:
 
+![image](https://github.com/user-attachments/assets/8e4bade6-261e-4ffa-b580-c40bb702a0d6)
+
+
 +-----------------+
 |      User       |
 +-----------------+
